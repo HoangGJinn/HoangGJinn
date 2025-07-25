@@ -34,7 +34,7 @@
 ### 🎧 Now playing on Spotify
 <table align="center">
   <tr>
-    <td style="padding-right: 20px;"> <a href="https://github.com/kittinan/spotify-github-profile">
+    <td > <a href="https://github.com/kittinan/spotify-github-profile">
         <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=xvhvta8gzgoncda93br6fzlwv&cover_image=true&theme=default&show_offline=false&background_color=ffffff&interchange=false&bar_color=53b14f&bar_color_cover=false"
              alt="spotify-github-profile"
              width="250"
