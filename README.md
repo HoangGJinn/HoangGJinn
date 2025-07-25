@@ -41,7 +41,7 @@
              height="300"/>
       </a>
     </td>
-    <td> <img src="https://spotify-recently-played-readme.vercel.app/api?user=xvhvta8gzgoncda93br6fzlwv"
+    <td> <img src="https://spotify-recently-played-readme.vercel.app/api?user=xvhvta8gzgoncda93br6fzlwv&background_color=ffffff"
            alt="Spotify Recently Played"
            width="250"
            height="300"/>
