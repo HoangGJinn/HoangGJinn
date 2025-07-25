@@ -37,7 +37,7 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=xvhvta8gzgoncda93br6fzlwv&cover_image=true&theme=default&show_offline=false&background_color=ffffff&interchange=false&bar_color=53b14f&bar_color_cover=false"
          alt="spotify-github-profile"
          width="300"
-         height="500"/>
+         height="390"/>
   </a>
 </p>
 
