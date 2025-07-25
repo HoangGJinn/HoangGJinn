@@ -32,21 +32,22 @@
 
 ---
 ### 🎧 Now playing on Spotify
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=xvhvta8gzgoncda93br6fzlwv&cover_image=true&theme=default&show_offline=false&background_color=ffffff&interchange=false&bar_color=53b14f&bar_color_cover=false"
-         alt="spotify-github-profile"
-         width="250"
-         height="300"/>
-  </a>
-  
-  &nbsp;&nbsp;&nbsp;&nbsp; 
-  
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=xvhvta8gzgoncda93br6fzlwv"
-       alt="Spotify Recently Played"
-       width="250"
-       height="300"/> </p>
-
+<table align="center">
+  <tr>
+    <td style="padding-right: 20px;"> <a href="https://github.com/kittinan/spotify-github-profile">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=xvhvta8gzgoncda93br6fzlwv&cover_image=true&theme=default&show_offline=false&background_color=ffffff&interchange=false&bar_color=53b14f&bar_color_cover=false"
+             alt="spotify-github-profile"
+             width="250"
+             height="300"/>
+      </a>
+    </td>
+    <td> <img src="https://spotify-recently-played-readme.vercel.app/api?user=xvhvta8gzgoncda93br6fzlwv"
+           alt="Spotify Recently Played"
+           width="250"
+           height="300"/>
+    </td>
+  </tr>
+</table>
 ---
 
 ### 🛠️ Languages and tools
