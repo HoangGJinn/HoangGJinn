@@ -39,7 +39,13 @@
          width="250"
          height="300"/>
   </a>
-</p>
+  
+  &nbsp;&nbsp;&nbsp;&nbsp; 
+  
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=xvhvta8gzgoncda93br6fzlwv"
+       alt="Spotify Recently Played"
+       width="250"
+       height="300"/> </p>
 
 ---
 
