@@ -4,7 +4,7 @@
 
 <div id="user-content-toc" align="center">
   <h1 align="center">Nguyen Hoang Giap (HoangGJinn)</h1>
-  <h3 align="center">I'm twenty and from Vietnam 🇻🇳</h3>
+  <h3 align="center">I'm twenty and from VietNam</h3>
 </div>
 
 <div align="center">
