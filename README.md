@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:00c6ff,100:0072ff&height=280&section=header&text=Hi!%20I'm%20HoangGJinn&fontSize=70&fontAlignY=38&animation=twinkling&fontColor=ffffff" alt="Header"/>
+  Welcome to my page!!
 </p>
 
 <div id="user-content-toc" align="center">
@@ -74,8 +74,4 @@
   <a href="https://www.instagram.com/marrflan">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=150&section=footer"/>
 </p>
