@@ -1,9 +1,9 @@
 <p align="center">
-  Welcome to my page!!
+  <h1>Welcome to my page!!</h1>
 </p>
 
 <div id="user-content-toc" align="center">
-  <h1 align="center">Nguyen Hoang Giap (HoangGJinn)</h1>
+  <h2 align="center">Nguyen Hoang Giap (HoangGJinn)</h1>
   <h3 align="center">I'm twenty and from VietNam</h3>
 </div>
 
