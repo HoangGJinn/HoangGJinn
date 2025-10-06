@@ -31,6 +31,17 @@
 </p>
 
 ---
+
+### 🛠️ Languages and tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,java,cs,js,html,css,bootstrap,vscode,visualstudio,git,github,spotify" />
+  </a>
+</p>
+
+---
+
 ### 🎧 Now playing on Spotify
 <table align="center">
   <tr>
@@ -48,14 +59,3 @@
     </td>
   </tr>
 </table>
-
----
-
-### 🛠️ Languages and tools
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,cs,js,html,css,bootstrap,vscode,visualstudio,git,github,spotify" />
-  </a>
-</p>
-
