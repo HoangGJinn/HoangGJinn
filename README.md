@@ -48,6 +48,7 @@
     </td>
   </tr>
 </table>
+
 ---
 
 ### 🛠️ Languages and tools
