@@ -1,9 +1,8 @@
 <p align="center">
-  <!-- Dòng H1 -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=800&center=true&repeat=false&vCenter=true&width=800&lines=Welcome+to+my+page!!" alt="typing intro" />
-  <br/>
-  <!-- Dòng H2 + H3 lần lượt -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1200&center=true&vCenter=true&width=800&lines=Nguyen+Hoang+Giap+(HoangGJinn);I'm+twenty+and+from+VietNam" alt="typing sub" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&speed=45&pause=1000&repeat=false&multiline=true&center=true&vCenter=true&width=900&height=110&lines=Welcome+to+my+page!!;Nguyen+Hoang+Giap+(HoangGJinn)"
+    alt="typing header"
+  />
 </p>
 
 
