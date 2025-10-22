@@ -1,8 +1,11 @@
 <p align="center">
-  <h1>Welcome to my page!!</h1>
-  <h2 align="center">Nguyen Hoang Giap (HoangGJinn)</h1>
-  <h3 align="center">I'm twenty and from VietNam</h3>
+  <!-- Dòng H1 -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=800&center=true&vCenter=true&width=800&lines=Welcome+to+my+page!!" alt="typing intro" />
+  <br/>
+  <!-- Dòng H2 + H3 lần lượt -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1200&center=true&vCenter=true&width=800&lines=Nguyen+Hoang+Giap+(HoangGJinn);I'm+twenty+and+from+VietNam" alt="typing sub" />
 </p>
+
 
 <div align="center">
   <p align="center">
