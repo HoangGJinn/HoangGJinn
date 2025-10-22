@@ -49,7 +49,7 @@
 
 ---
 
-### 🎧 Now playing on Spotify
+### 🎧 Playing on Spotify
 <table align="center">
   <tr>
     <td style="padding-right: 20px;"> <a href="https://github.com/kittinan/spotify-github-profile">
