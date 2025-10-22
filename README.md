@@ -47,7 +47,8 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/HoangGJinn/HoangGJinn/output/github-contribution-grid-snake.svg" />
 </picture>
 
-_generated with [Platane/snk](https://github.com/Platane/snk)_
+<sub><i>_generated with <a href="https://github.com/Platane/snk">Platane/snk</a>_</i></sub>
+
 ---
 
 ### 🎧 Now playing on Spotify
