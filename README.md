@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&speed=45&pause=1000&repeat=false&multiline=true&center=true&vCenter=true&width=900&height=110&lines=Welcome+to+my+page!!;Nguyen+Hoang+Giap+(HoangGJinn)"
+    src="https://readme-typing-svg.demolab.com?font=Montserrat+Code&weight=700&size=30&speed=60&pause=500&repeat=false&multiline=true&center=true&vCenter=true&width=900&height=110&lines=Welcome+to+my+page!!;Nguyen+Hoang+Giap+(HoangGJinn)"
     alt="typing header"
   />
 </p>
