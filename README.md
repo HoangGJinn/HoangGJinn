@@ -1,10 +1,9 @@
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Montserrat+Code&weight=700&size=30&speed=60&pause=500&repeat=false&multiline=true&center=true&vCenter=true&width=900&height=110&lines=Welcome+to+my+page!!;Nguyen+Hoang+Giap+(HoangGJinn)"
+    src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=700&size=30&speed=60&pause=200&repeat=false&multiline=true&center=true&vCenter=true&width=900&height=110&lines=Welcome+to+my+page;I'm+Nguyen+Hoang+Giap"
     alt="typing header"
   />
 </p>
-
 
 <div align="center">
   <p align="center">
